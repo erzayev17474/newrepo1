@@ -1,9 +1,8 @@
-# Team Allocation
+# Team 48 Contribution (%)
 
-| **Name**         | **Role**              | **Responsibilities**                         |
-|------------------|-----------------------|---------------------------------------------|
-| **Alice**        | Project Manager       | *Overseeing the project timeline*           |
-| **Bob**          | Developer             | *Coding and technical implementation*       |
-| **Charlie**      | Designer              | *Designing UI/UX elements*                  |
-| **Diana**        | Quality Assurance     | *Testing and bug reporting*                 |
-| **Eve**          | Documentation         | *Writing and maintaining documentation*     |
+| **Team 48**                  | **Contribution (%)** |
+|----------------------------------|----------------------|
+| Elməddin Zamanov (Team Leader)      | 25                   |
+| Nəzrin Cəlilova 2                    | 25                   |
+| Emil Rzayev 3                    | 25                   |
+| Şamil Əliyev 4                    | 25                   |
